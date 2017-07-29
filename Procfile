@@ -1,0 +1,1 @@
+worker: open runbot_mac.command
