@@ -1,1 +1,1 @@
-worker: open runbot_mac.command
+worker: python3.5 run.py
